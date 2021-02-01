@@ -1,0 +1,1 @@
+const maximum = Math.max(business, minister, sochib );
